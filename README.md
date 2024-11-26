@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atul Mishra</h1>
 <h3 align="center">A passionate tech-savvy from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulmishra22&label=Profile%20views&color=0e75b6&style=flat" alt="atulmishra22" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulmishra22" alt="atulmishra22" /></a> </p>
 
 - 🔭 I’m currently working on **My college project and learning**
 
