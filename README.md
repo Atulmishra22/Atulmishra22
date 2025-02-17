@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **My college project and learning**
 
-- 🌱 I’m currently learning **python DSA and React.**
+- 🌱 I’m currently learning **python DSA .**
 
 - 👯 I’m looking to collaborate on **project.**
 
-- 💬 Ask me about **python , Javascript.**
+- 💬 Ask me about **python , Javascript , React.**
 
 - 📫 How to reach me **matul2264@gmail.com**
 
