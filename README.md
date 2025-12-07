@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer & AI Engineer | IIT Madras</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+Intelligent+Systems;Web+Infrastructure+%2B+Generative+AI;Open+to+Summer+2025+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+Intelligent+Systems;Web+Infrastructure+%2B+Generative+AI;Open+to+winter+2026+Internships" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,8 +12,8 @@
 - 🎓 **BS in Data Science & Applications** at **IIT Madras** (2nd Year, CGPA: 7.42)
 - 🔭 Currently building **autonomous AI agents** and **scalable web platforms**
 - 🌱 Learning **LangGraph, RAG Pipelines, System Design**
-- 💼 Open to **Summer 2025 Internships** in Software Engineering & Data Science
-- 🏆 Ranked **Top 5%** in Code Crafters Hackathon
+- 💼 Open to **Summer and winter 2026 Internships** in Software Engineering & Data Science
+- 🏆 Organised Code Crafters **Hackathon**
 - ⚡ **120+ LeetCode** problems solved
 - 📫 Reach me at **matul2264@gmail.com**
 - 🌐 Portfolio: **[atulmishra.dev](https://portfolio-second-five.vercel.app)**
@@ -32,7 +32,7 @@
 <a href="mailto:matul2264@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://your-portfolio-url.vercel.app" target="_blank">
+<a href="https://portfolio-second-five.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
@@ -160,7 +160,6 @@ CLI tool with **LangChain** & **GitHub API**
 
 ### 🏆 Achievements
 
-- 🥇 **Top 5%** in Code Crafters Hackathon
 - 💻 **120+ LeetCode** problems solved
 - 🚀 **4 Production Apps** deployed (Render/HuggingFace)
 - 📈 **106 GitHub Commits** in 2024
@@ -180,7 +179,7 @@ CLI tool with **LangChain** & **GitHub API**
   <img src="https://img.shields.io/badge/Status-Open_to_Internships-success?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Work"/>
 </p>
 
-I'm actively seeking **Summer 2025 Internships** in:
+I'm actively seeking **Summer and winter 2026 Internships** in:
 - 🌐 **Full Stack Development**
 - 🤖 **AI/ML Engineering**
 - 📊 **Data Science**
