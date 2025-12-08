@@ -16,7 +16,7 @@
 - 🏆 Organised Code Crafters **Hackathon**
 - ⚡ **120+ LeetCode** problems solved
 - 📫 Reach me at **matul2264@gmail.com**
-- 🌐 Portfolio: **[atulmishra.dev](https://portfolio-second-five.vercel.app)**
+- 🌐 Portfolio: **[atulmishra.dev](https://atul-mishra-portfolio.vercel.app)**
 
 ---
 
