@@ -163,7 +163,7 @@ CLI tool with **LangChain** & **GitHub API**
 - 💻 **120+ LeetCode** problems solved
 - 🚀 **4 Production Apps** deployed (Render/HuggingFace)
 - 📈 **106 GitHub Commits** in 2024
-- 🎓 **7.42 CGPA** at IIT Madras
+- 🎓 **7.54 CGPA** at IIT Madras
 
 ---
 
