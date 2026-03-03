@@ -144,11 +144,6 @@ CLI tool with **LangChain** & **GitHub API**
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atulmishra22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulmishra22&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulmishra22&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
