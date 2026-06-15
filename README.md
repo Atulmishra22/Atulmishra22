@@ -15,7 +15,7 @@
 - 💼 Open to **Summer and winter 2026 Internships** in Software Engineering & Data Science
 - 🏆 Organised Code Crafters **Hackathon**
 - ⚡ **120+ LeetCode** problems solved
-- 📫 Reach me at **matul2264@gmail.com**
+- 📫 Reach me at **atulmishralearn@gmail.com**
 - 🌐 Portfolio: **[atulmishra.dev](https://atul-mishra-portfolio.vercel.app)**
 
 ---
