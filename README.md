@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **BS in Data Science & Applications** at **IIT Madras** (2nd Year, CGPA: 7.6)
+- 🎓 **BS in Data Science & Applications** at **IIT Madras** (3rd Year, CGPA: 7.6)
 - 🔭 Currently building **autonomous AI agents** and **scalable web platforms**
 - 🌱 Learning **LangGraph, RAG Pipelines, System Design**
 - 💼 Open to **Summer and winter 2026 Internships** in Software Engineering & Data Science
@@ -124,7 +124,7 @@ Enterprise-grade service management with **Vue.js** & **Flask**
 Multi-task CNN with **PyTorch** & **ResNet34**
 - 0.817 F1 Score on imbalanced dataset
 - Custom loss functions
-- [View Repository →](https://github.com/Atulmishra22)
+- [View Repository →](https://github.com/Atulmishra22/age-and-gender-prediction)
 
 </td>
 <td width="50%">
@@ -157,8 +157,7 @@ CLI tool with **LangChain** & **GitHub API**
 
 - 💻 **120+ LeetCode** problems solved
 - 🚀 **4 Production Apps** deployed (Render/HuggingFace)
-- 📈 **106 GitHub Commits** in 2024
-- 🎓 **7.54 CGPA** at IIT Madras
+- 🎓 **7.6 CGPA** at IIT Madras
 
 ---
 
