@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **BS in Data Science & Applications** at **IIT Madras** (2nd Year, CGPA: 7.42)
+- 🎓 **BS in Data Science & Applications** at **IIT Madras** (2nd Year, CGPA: 7.6)
 - 🔭 Currently building **autonomous AI agents** and **scalable web platforms**
 - 🌱 Learning **LangGraph, RAG Pipelines, System Design**
 - 💼 Open to **Summer and winter 2026 Internships** in Software Engineering & Data Science
