@@ -1,192 +1,165 @@
-<h1 align="center">Hi 👋, I'm Atul Mishra</h1>
-<h3 align="center">Full Stack Developer & AI Engineer | IIT Madras</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+Intelligent+Systems;Web+Infrastructure+%2B+Generative+AI;Open+to+winter+2026+Internships" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1e3a5f&height=200&section=header&text=Atul%20Mishra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20IIT%20Madras&descAlignY=55&descSize=18" width="100%"/>
 
----
+<a href="https://readme-typing-svg.herokuapp.com/">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Autonomous+AI+Agents+with+LangGraph;AI+Engineering+Intern+%40+IIT+Ropar+VLED+Lab;3rd+Year+%40+IIT+Madras+%7C+CGPA+7.6" alt="Typing SVG" />
+</a>
 
-### 👨‍💻 About Me
+<br/>
 
-- 🎓 **BS in Data Science & Applications** at **IIT Madras** (3rd Year, CGPA: 7.6)
-- 🔭 Currently building **autonomous AI agents** and **scalable web platforms**
-- 🌱 Learning **LangGraph, RAG Pipelines, System Design**
-- 💼 Open to **Summer and winter 2026 Internships** in Software Engineering & Data Science
-- 🏆 Organised Code Crafters **Hackathon**
+<a href="https://atul-mishra-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/atulmishra2264"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:matul2264@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Status-Open_to_Internships-success?style=for-the-badge&logo=handshake&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+- 🎓 **3rd Year, BS in Data Science & Applications** @ **IIT Madras** — CGPA 7.6, Class of 2027
+- 🧪 **AI Engineering Intern** @ IIT Ropar's **VLED Lab**, under Prof. Sudarshan Iyengar — Vicharanashala Summership 2026
+- 🏗️ Currently building **RepoProof** — an AI-powered repository intelligence platform using Human-in-the-Loop LangGraph pipelines
+- 🌱 Deepening my grip on **system design, retrieval architectures, and eval-driven AI engineering**
+- 🏆 Organizer, **Code Crafters Hackathon** @ IIT Madras
+- 💼 Open to **Summer/Winter 2026 internships** in AI Engineering, Software Engineering & ML Research
 - ⚡ **120+ LeetCode** problems solved
-- 📫 Reach me at **atulmishralearn@gmail.com**
-- 🌐 Portfolio: **[atulmishra.dev](https://atul-mishra-portfolio.vercel.app)**
+- 📫 Reach me at **atulmishralearn@gmail.com** &nbsp;·&nbsp; 🌐 **[atul-mishra-portfolio.vercel.app](https://atul-mishra-portfolio.vercel.app)**
 
----
+<br/>
 
-### 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://linkedin.com/in/atulmishra2264" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Atulmishra22" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:matul2264@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://atul-mishra-portfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-</p>
+<div align="center">
 
----
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### 🛠️ Tech Stack
+**AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-#### **Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-#### **Frontend Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+**Backend & Infra**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-#### **Backend Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</p>
+</div>
 
-#### **AI & Machine Learning**
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-</p>
+<br/>
 
-#### **Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
-
-#### **DevOps & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
----
-
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🤖 LLM Quiz Solver
-Autonomous multi-agent system using **LangGraph** and **GPT-4**
-- 98% accuracy on data science problems
-- Real-time perception & reasoning
-- [View Repository →](https://github.com/Atulmishra22/llm-quiz-solver)
+### 🧠 RepoProof
+**AI-Powered Repository Intelligence Platform**
+
+A Human-in-the-Loop LangGraph pipeline that mines codebases for verifiable technical achievements, then compiles them into resumes, LinkedIn summaries, and READMEs.
+
+`LangGraph` `tree-sitter` `RAG` `Human-in-the-Loop`
+
+**[→ View Repository](https://github.com/Atulmishra22/RepoProof)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🏠 House Service Platform
-Enterprise-grade service management with **Vue.js** & **Flask**
-- Role-based security & async queues
-- 200ms average latency
-- [View Repository →](https://github.com/Atulmishra22/House-service2)
+### 🤖 AI Repo Generator v2
+**Self-Healing Agentic Code Generation & Deployment**
+
+A state-checkpointed LangGraph service that plans, generates, and Playwright-tests code, auto-heals failed builds through a replanning loop, then pauses for human approval (HITL) before deploying to GitHub Pages. 100% pass rate on its own eval harness, with full cost/latency tracing via Langfuse.
+
+`LangGraph` `LangChain` `Langfuse` `Playwright` `Docker`
+
+**[→ View Repository](https://github.com/Atulmishra22/AI-Repo-Generator)**
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🧠 Age/Gender Neural Net
-Multi-task CNN with **PyTorch** & **ResNet34**
-- 0.817 F1 Score on imbalanced dataset
-- Custom loss functions
-- [View Repository →](https://github.com/Atulmishra22/age-and-gender-prediction)
+### 🎯 Recruiter-First Portfolio
+**(the site you're looking at is built here)**
+
+A performance-tuned candidate portfolio engineered for a 30-second recruiter scan — interactive CLI hero, live benchmark metrics, Vercel Geist typography.
+
+`Next.js 16` `React 19` `TypeScript` `Tailwind v4`
+
+**[→ View Repository](https://github.com/Atulmishra22/portfolio)** · **[Live ↗](https://atul-mishra-portfolio.vercel.app)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🤖 AI Repo Generator
-CLI tool with **LangChain** & **GitHub API**
-- Natural language to production repo
-- Auto-deployment pipeline
-- [View Repository →](https://github.com/Atulmishra22/tds-project-1)
+### 🎓 Placement Portal
+**Full-Stack Placement Management System**
+
+Role-based placement platform with JWT authentication and granular RBAC, built for real institutional use across multiple user roles.
+
+`Vue 3` `Flask` `JWT` `RBAC`
+
+**[→ View Repository](https://github.com/Atulmishra22/placement-portal)**
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulmishra22&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulmishra22&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
+<img src="https://raw.githubusercontent.com/Atulmishra22/Atulmishra22/main/github-metrics.svg" width="100%"/>
 
----
+<br/>
 
-### 🏆 Achievements
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atulmishra22&theme=tokyonight&hide_border=true" width="70%"/>
 
-- 💻 **120+ LeetCode** problems solved
-- 🚀 **4 Production Apps** deployed (Render/HuggingFace)
-- 🎓 **7.6 CGPA** at IIT Madras
+<br/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Atulmishra22&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 
-### 📈 Contribution Graph
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atulmishra22&theme=tokyonight" alt="Contribution Graph"/>
+<br/>
 
----
+## 🌐 Connect With Me
 
-### 💼 Open to Opportunities
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_to_Internships-success?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Work"/>
-</p>
+<a href="https://linkedin.com/in/atulmishra2264"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Atulmishra22"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:atulmishralearn@gmail.com.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://atul-mishra-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
-I'm actively seeking **Summer and winter 2026 Internships** in:
-- 🌐 **Full Stack Development**
-- 🤖 **AI/ML Engineering**
-- 📊 **Data Science**
-- ☁️ **DevOps & Cloud**
+<br/><br/>
 
-Let's build something amazing together! 🚀
+<img src="https://komarev.com/ghpvc/?username=atulmishra22&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
 
----
+<br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atulmishra22&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
+*⚡ "Engineering Intelligent Systems" ⚡*
 
-<p align="center">
-  <i>⚡ "Engineering Intelligent Systems" ⚡</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1b2a&height=100&section=footer" width="100%"/>
+
+</div>
