@@ -10,7 +10,7 @@
 
 <a href="https://atul-mishra-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/atulmishra2264"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:matul2264@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:atulmishralearn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Status-Open_to_Internships-success?style=for-the-badge&logo=handshake&logoColor=white"/>
 
 </div>
@@ -137,8 +137,6 @@ Role-based placement platform with JWT authentication and granular RBAC, built f
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Atulmishra22&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
-
 </div>
 
 <br/>
@@ -149,7 +147,7 @@ Role-based placement platform with JWT authentication and granular RBAC, built f
 
 <a href="https://linkedin.com/in/atulmishra2264"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Atulmishra22"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:atulmishralearn@gmail.com.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:atulmishralearn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://atul-mishra-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 <br/><br/>
