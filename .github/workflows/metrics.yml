@@ -19,12 +19,10 @@ jobs:
           user: Atulmishra22
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, metadata
+          base: header, activity, community, repositories, metadata
+          plugin_repositories_forks: yes
+          plugin_repositories_stars: yes
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 15
           plugin_languages_details: bytes-size, percentage
-          plugin_habits: yes
-          plugin_habits_charts_type: bar
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
