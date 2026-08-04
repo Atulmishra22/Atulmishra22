@@ -96,23 +96,15 @@ Role-based placement platform with JWT authentication and granular RBAC, built f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Atulmishra22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="160"/>
-&nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=atulmishra22&theme=tokyonight&hide_border=true" height="160"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atulmishra22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="145"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atulmishra22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="160"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=atulmishra22&label=Profile%20Views&color=0e75b6&style=flat-square"/>
-
-<br/><br/>
 
 *⚡ Engineering Intelligent Systems, one commit at a time.*
 
