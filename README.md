@@ -98,7 +98,7 @@ Role-based placement platform with JWT authentication and granular RBAC, built f
 
 <img src="https://streak-stats.demolab.com/?user=atulmishra22&theme=tokyonight&hide_border=true" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atulmishra22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="160"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Atulmishra22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
 
 </div>
 
